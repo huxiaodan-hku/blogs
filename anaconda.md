@@ -1,12 +1,18 @@
-`conda create -n tensorflow python=3.6`
-
-`conda env remove -n tensorflow`
-
-`source activate tensorflow `
-
-`juypter notebook`
-
-`jupyter notebook --ip=10.112.16.86 --port=8080 --allow-root`
+```
+conda create -n tensorflow python=3.6
+```
+```
+conda env remove -n tensorflow
+```
+```
+source activate tensorflow
+```
+```
+juypter notebook
+```
+```
+jupyter notebook --ip=10.112.16.86 --port=8080 --allow-root
+```
 
 启动tensorboard
 打开tensorflow环境
