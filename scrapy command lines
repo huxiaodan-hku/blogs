@@ -1,0 +1,23 @@
+进入anacanda/bin目录下才能执行scrapy
+
+创建新项目
+
+```
+if (isAwesome){
+  return true
+}
+```
+
+And if you'd like to use syntax highlighting, include the language:
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
+执行项目
+scrapy crawl quotes 
+
+存储项目输出文件
+scrapy crawl quotes -o quotes.json 
